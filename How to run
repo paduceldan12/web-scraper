@@ -1,0 +1,6 @@
+Install Dependencies :
+pip install requests beautifulsoup4
+Run the script :
+python web_scraper.py
+Check the result : 
+Check the jobs.csv file containing the scraped job listings.
